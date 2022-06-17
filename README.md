@@ -2,7 +2,6 @@
 <h3 align="center">A Software Developer from Istanbul/Turkey</h3>
 
 <h5 align="center"> 🎯 I like write codes with Java </h5>
-<h5 align="center"> :iphone: I’m currently learning Mobile Programming </h5>
 <h4 align="center">:question: How to reach me :question:</h4>
 <p align="center">
 <a href="https://linkedin.com/in/gulumser-aslan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gulumseraslan" height="30" width="40" /></a>
